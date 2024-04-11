@@ -1,5 +1,5 @@
   Hello there 👋
-
+I’m currently learning
 <!--
 
 **kylead10/kylead10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
