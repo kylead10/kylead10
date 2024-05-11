@@ -1,5 +1,5 @@
  Hello there 👋
-I’m currently learning ReactJs.
+I’m currently learning React Native.
 
 <!--
 
