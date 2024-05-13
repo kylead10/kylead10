@@ -1,7 +1,8 @@
  Hello there 👋.
 I’m currently learning React Native.
 
-Fighting!!!
+Fighting![image](https://github.com/kylead10/kylead10/assets/101107354/0cea40bb-8fd9-4b1b-95b0-02ffbd660e4d)
+
 <!--
 
 **kylead10/kylead10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
