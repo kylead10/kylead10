@@ -1,7 +1,7 @@
  Hello there 👋
 I’m currently learning React Native.
 
-Fig
+
 
 <!--
 
